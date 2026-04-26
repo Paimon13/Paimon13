@@ -1,4 +1,4 @@
-# Hi there, I'm Paimon13! 👋
+# Hi there, I'm Paimon! 👋
 
 ### Backend Developer | Java & Kotlin Fanatic | Souls-like & Breakcore Enthusiast
 
