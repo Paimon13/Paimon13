@@ -22,4 +22,4 @@
 
 ### 🤙 Get in touch:
 - **Telegram:** [@paimon13](https://t.me/paimon13)
-- **Email:** [Dekrizz1@gmail.com](mailto:Dekrizz1@gmail.com)
+- **Email:** [dev.paimon13@proton.me](mailto:dev.paimon13@proton.me)
