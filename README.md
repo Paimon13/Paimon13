@@ -2,7 +2,7 @@
 
 ### Backend Developer | Java & Kotlin Fanatic | Souls-like & Breakcore Enthusiast
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Paimon13&show_icons=true&theme=tokyonight)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ### 📊 Language Statistics:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paimon13&layout=compact&theme=tokyonight)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 
 ---
 
