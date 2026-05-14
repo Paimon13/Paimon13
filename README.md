@@ -2,7 +2,7 @@
 
 ### Backend Developer | Java & Kotlin Fanatic | Souls-like & Breakcore Enthusiast
 
-![Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Paimon13&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Paimon13&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ### 📊 Language Statistics:
-![Top Langs](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Paimon13&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paimon13&layout=compact&theme=tokyonight)
 
 ---
 
