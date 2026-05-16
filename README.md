@@ -1,6 +1,6 @@
 # Hi there, I'm Paimon! 👋
 
-### Backend Developer | Java Fanatic | Kotlin, Dart & Flutter dev
+### Backend Developer | Java & Kotlin, Dart & Flutter dev
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paimon13\&theme=aura)
 
@@ -44,8 +44,6 @@
 ## 🧑‍💻 Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paimon13\&theme=aura\&utcOffset=5)
-
-![](https://streak-stats.demolab.com?user=paimon13\&theme=dark\&hide_border=true)
 
 ---
 
