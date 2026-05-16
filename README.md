@@ -9,24 +9,24 @@
 ### 🛠 Tech Stack
 
 - **Languages:**  
-![Java](https://img.shields.io/badge/Java-1a1025?labelColor=39ff14&logo=java&logoColor=ff9f1c)
-![Kotlin](https://img.shields.io/badge/Kotlin-1a1025?labelColor=39ff14&logo=kotlin&logoColor=ff9f1c)
-![Dart](https://img.shields.io/badge/Dart-1a1025?labelColor=39ff14&logo=dart&logoColor=ff9f1c)
+![Java](https://img.shields.io/badge/Java-15141B?logo=java&logoColor=C69E6B)
+![Kotlin](https://img.shields.io/badge/Kotlin-15141B?logo=kotlin&logoColor=C69E6B)
+![Dart](https://img.shields.io/badge/Dart-15141B?logo=dart&logoColor=C69E6B)
 
 - **Frameworks:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1025?labelColor=39ff14&logo=springboot&logoColor=ff9f1c)
-![Flutter](https://img.shields.io/badge/Flutter-1a1025?labelColor=39ff14&logo=flutter&logoColor=ff9f1c)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-15141B?logo=springboot&logoColor=C69E6B)
+![Flutter](https://img.shields.io/badge/Flutter-15141B?logo=flutter&logoColor=C69E6B)
 
 - **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1025?labelColor=39ff14&logo=postgresql&logoColor=ff9f1c)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1025?labelColor=39ff14&logo=mongodb&logoColor=ff9f1c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15141B?logo=postgresql&logoColor=C69E6B)
+![MongoDB](https://img.shields.io/badge/MongoDB-15141B?logo=mongodb&logoColor=C69E6B)
 
 - **Messaging:**  
-![Kafka](https://img.shields.io/badge/Kafka-1a1025?labelColor=39ff14&logo=apachekafka&logoColor=ff9f1c)
+![Kafka](https://img.shields.io/badge/Kafka-15141B?logo=apachekafka&logoColor=C69E6B)
 
 - **DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-1a1025?labelColor=39ff14&logo=docker&logoColor=ff9f1c)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1025?labelColor=39ff14&logo=github-actions&logoColor=ff9f1c)
+![Docker](https://img.shields.io/badge/Docker-15141B?logo=docker&logoColor=C69E6B)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-15141B?logo=github-actions&logoColor=C69E6B)
 
 ---
 
