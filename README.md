@@ -33,6 +33,6 @@
 ### 🧑‍💻 My activity:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paimon13&theme=aura&utcOffset=8) 
 
-### 🤙 Get in touch:
+### ✉️ Get in touch:
 - **Telegram:** [@paimon13](https://t.me/paimon13)
 - **Email:** [dev.paimon13@proton.me](mailto:dev.paimon13@proton.me)
