@@ -12,7 +12,7 @@
 - **Databases:** ![Postgres](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql) ![Mongo](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
 - **Messaging:** ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apachekafka)
 - **DevOps:** ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ---
 
 ### 📊 Language Statistics:
