@@ -9,24 +9,24 @@
 ### 🛠 Tech Stack
 
 - **Languages:**  
-![Java](https://img.shields.io/badge/Java-15141B?style=for-the-badge&logo=openjdk&logoColor=C69E6B&labelColor=15141B)
-![Kotlin](https://img.shields.io/badge/Kotlin-15141B?style=for-the-badge&logo=kotlin&logoColor=C69E6B&labelColor=15141B)
-![Dart](https://img.shields.io/badge/Dart-15141B?style=for-the-badge&logo=dart&logoColor=C69E6B&labelColor=15141B)
+![Java](https://img.shields.io/badge/Java-15141B?style=for-the-badge&logo=openjdk&logoColor=409A7F&color=15141B&labelColor=15141B)
+![Kotlin](https://img.shields.io/badge/Kotlin-15141B?style=for-the-badge&logo=kotlin&logoColor=409A7F&color=15141B&labelColor=15141B)
+![Dart](https://img.shields.io/badge/Dart-15141B?style=for-the-badge&logo=dart&logoColor=409A7F&color=15141B&labelColor=15141B)
 
 - **Frameworks:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-15141B?style=for-the-badge&logo=springboot&logoColor=C69E6B&labelColor=15141B)
-![Flutter](https://img.shields.io/badge/Flutter-15141B?style=for-the-badge&logo=flutter&logoColor=C69E6B&labelColor=15141B)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-15141B?style=for-the-badge&logo=springboot&logoColor=409A7F&color=15141B&labelColor=15141B)
+![Flutter](https://img.shields.io/badge/Flutter-15141B?style=for-the-badge&logo=flutter&logoColor=409A7F&color=15141B&labelColor=15141B)
 
 - **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15141B?style=for-the-badge&logo=postgresql&logoColor=C69E6B&labelColor=15141B)
-![MongoDB](https://img.shields.io/badge/MongoDB-15141B?style=for-the-badge&logo=mongodb&logoColor=C69E6B&labelColor=15141B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15141B?style=for-the-badge&logo=postgresql&logoColor=409A7F&color=15141B&labelColor=15141B)
+![MongoDB](https://img.shields.io/badge/MongoDB-15141B?style=for-the-badge&logo=mongodb&logoColor=409A7F&color=15141B&labelColor=15141B)
 
 - **Messaging:**  
-![Kafka](https://img.shields.io/badge/Kafka-15141B?style=for-the-badge&logo=apachekafka&logoColor=C69E6B&labelColor=15141B)
+![Kafka](https://img.shields.io/badge/Kafka-15141B?style=for-the-badge&logo=apachekafka&logoColor=409A7F&color=15141B&labelColor=15141B)
 
 - **DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-15141B?style=for-the-badge&logo=docker&logoColor=C69E6B&labelColor=15141B)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-15141B?style=for-the-badge&logo=githubactions&logoColor=C69E6B&labelColor=15141B)
+![Docker](https://img.shields.io/badge/Docker-15141B?style=for-the-badge&logo=docker&logoColor=409A7F&color=15141B&labelColor=15141B)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-15141B?style=for-the-badge&logo=githubactions&logoColor=409A7F&color=15141B&labelColor=15141B)
 
 ---
 
