@@ -9,24 +9,24 @@
 ### 🛠 Tech Stack
 
 - **Languages:**  
-![Java](https://img.shields.io/badge/Java-2d1b3d?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-2a1f3f?logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-1b2a3d?logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1a1025?labelColor=39ff14&logo=java&logoColor=ff9f1c)
+![Kotlin](https://img.shields.io/badge/Kotlin-1a1025?labelColor=39ff14&logo=kotlin&logoColor=ff9f1c)
+![Dart](https://img.shields.io/badge/Dart-1a1025?labelColor=39ff14&logo=dart&logoColor=ff9f1c)
 
 - **Frameworks:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f3a2f?logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1b2f4a?logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1025?labelColor=39ff14&logo=springboot&logoColor=ff9f1c)
+![Flutter](https://img.shields.io/badge/Flutter-1a1025?labelColor=39ff14&logo=flutter&logoColor=ff9f1c)
 
 - **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1b2a3f?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1f3a2f?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1025?labelColor=39ff14&logo=postgresql&logoColor=ff9f1c)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1025?labelColor=39ff14&logo=mongodb&logoColor=ff9f1c)
 
 - **Messaging:**  
-![Kafka](https://img.shields.io/badge/Kafka-2a1b2f?logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-1a1025?labelColor=39ff14&logo=apachekafka&logoColor=ff9f1c)
 
 - **DevOps:**  
-![Docker](https://img.shields.io/badge/Docker-1b2f3f?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1b2a3f?logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1025?labelColor=39ff14&logo=docker&logoColor=ff9f1c)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1025?labelColor=39ff14&logo=github-actions&logoColor=ff9f1c)
 
 ---
 
