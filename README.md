@@ -9,7 +9,7 @@
 ### 🛠 Tech Stack
 
 - **Languages:**  
-![Java](https://img.shields.io/badge/Java-15141B?style=for-the-badge&logo=java&logoColor=61FFCA&color=15141B&labelColor=15141B)
+![Java](https://img.shields.io/badge/Java-15141B?style=for-the-badge&logo=openjdk&logoColor=61FFCA&color=15141B&labelColor=15141B)
 ![Kotlin](https://img.shields.io/badge/Kotlin-15141B?style=for-the-badge&logo=kotlin&logoColor=61FFCA&color=15141B&labelColor=15141B)
 ![Dart](https://img.shields.io/badge/Dart-15141B?style=for-the-badge&logo=dart&logoColor=61FFCA&color=15141B&labelColor=15141B)
 
