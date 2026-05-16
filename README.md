@@ -1,7 +1,6 @@
 # Hi there, I'm Paimon! 👋
 
-### Backend Developer | Java & Kotlin Fanatic | Souls-like & Breakcore Enthusiast
-
+### Backend Developer | Java Fanatic | Kotlin, Dart & Flutter dev
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paimon13&theme=aura) 
 
 ---
@@ -30,9 +29,19 @@
 
 ---
 
+### ⌛ What I use most
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paimon13&theme=aura)
+
+---
+
 ### 🧑‍💻 My activity:
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paimon13&theme=aura&utcOffset=5) 
 
+---
+
 ### ✉️ Get in touch:
+
 - **Telegram:** [@paimon13](https://t.me/paimon13)
 - **Email:** [dev.paimon13@proton.me](mailto:dev.paimon13@proton.me)
