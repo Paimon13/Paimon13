@@ -2,7 +2,7 @@
 
 ### Backend Developer | Java Fanatic | Kotlin, Dart & Flutter dev
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paimon13\&theme=aura)
+https://github-readme-stats.vercel.app/api?username=paimon13&theme=aura&show_icons=true&hide_border=true&count_private=true
 
 ---
 
@@ -37,15 +37,13 @@
 
 ## ⌛ What I use most
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paimon13\&theme=aura)
+https://github-readme-stats.vercel.app/api/top-langs/?username=paimon13&theme=aura&show_icons=true&hide_border=true&layout=compact
 
 ---
 
 ## 🧑‍💻 Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=paimon13\&theme=aura\&utcOffset=5)
-
-![](https://streak-stats.demolab.com?user=paimon13\&theme=dark\&hide_border=true)
+https://streak-stats.demolab.com?user=paimon13&theme=aura&hide_border=true
 
 ---
 
