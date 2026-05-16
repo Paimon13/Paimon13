@@ -5,18 +5,27 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paimon13&theme=aura) 
 
 ---
+### 🛠 Tech Stack
 
-### 🛠 Tech Stack:
-- **Languages:** ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?logo=kotlin) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-- **Frameworks:** ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-- **Databases:** ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql) ![Mongo](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb)
-- **Messaging:** ![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apachekafka)
-- **DevOps:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
----
+- **Languages:**  
+![Java](https://img.shields.io/badge/Java-2b2b2b?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2b2b2b?logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2b2b2b?logo=dart&logoColor=white)
 
-### 📊 Language Statistics:
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=paimon13&theme=aura) 
+- **Frameworks:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f3a2a?logo=springboot&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1f2f4a?logo=flutter&logoColor=white)
+
+- **Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e2a3a?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1f3a2f?logo=mongodb&logoColor=white)
+
+- **Messaging:**  
+![Kafka](https://img.shields.io/badge/Kafka-2b2b2b?logo=apachekafka&logoColor=white)
+
+- **DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-1f3a4a?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2f4a?logo=github-actions&logoColor=white)
 
 ---
 
