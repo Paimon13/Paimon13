@@ -32,6 +32,7 @@
 
 ![Docker](https://img.shields.io/badge/Docker-15141B?style=for-the-badge\&logo=docker\&logoColor=61FFCA)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-15141B?style=for-the-badge\&logo=githubactions\&logoColor=61FFCA)
+[![NGINX](https://img.shields.io/badge/NGINX-15141B?style=for-the-badge&logo=nginx&logoColor=61FFCA)
 
 ---
 
