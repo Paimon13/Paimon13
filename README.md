@@ -10,14 +10,17 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-15141B?style=for-the-badge\&logo=openjdk\&logoColor=61FFCA)
-![Kotlin](https://img.shields.io/badge/Kotlin-15141B?style=for-the-badge\&logo=kotlin\&logoColor=61FFCA)
-![Dart](https://img.shields.io/badge/Dart-15141B?style=for-the-badge\&logo=dart\&logoColor=61FFCA)
+![Java](https://img.shields.io/badge/Java-15141B?style=for-the-badge&logo=openjdk&logoColor=61FFCA)
+![Kotlin](https://img.shields.io/badge/Kotlin-15141B?style=for-the-badge&logo=kotlin&logoColor=61FFCA)
+![Dart](https://img.shields.io/badge/Dart-15141B?style=for-the-badge&logo=dart&logoColor=61FFCA)
+![JavaScript](https://img.shields.io/badge/JavaScript-15141B?style=for-the-badge&logo=javascript&logoColor=61FFCA)
+![TypeScript](https://img.shields.io/badge/TypeScript-15141B?style=for-the-badge&logo=typescript&logoColor=61FFCA)
 
 ### Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-15141B?style=for-the-badge\&logo=springboot\&logoColor=61FFCA)
-![Flutter](https://img.shields.io/badge/Flutter-15141B?style=for-the-badge\&logo=flutter\&logoColor=61FFCA)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-15141B?style=for-the-badge&logo=springboot&logoColor=61FFCA)
+![Flutter](https://img.shields.io/badge/Flutter-15141B?style=for-the-badge&logo=flutter&logoColor=61FFCA)
+![Angular](https://img.shields.io/badge/Angular-15141B?style=for-the-badge&logo=angular&logoColor=61FFCA)
 
 ### Databases
 
